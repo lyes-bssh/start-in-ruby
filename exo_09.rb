@@ -1,0 +1,5 @@
+puts "Hello, what's your name bro ?"
+first_name = "Felix"
+last_name = "Gaude"
+puts "My name is #{first_name} #{last_name}"
+puts "Welcome #{first_name} #{last_name}"
